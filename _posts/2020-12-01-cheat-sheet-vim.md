@@ -4,8 +4,5 @@ title: Guia rápida VIM
 published: true
 ---
 
-## Guia rápida de VIM
-
-### Moviment amb VIM
-
+## Moviment amb VIM
 
