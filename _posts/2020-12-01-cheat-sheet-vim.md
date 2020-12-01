@@ -5,7 +5,7 @@ published: true
 ---
 
 ## Global
-```bash
+```
 :help keyword # open help for keyword
 :o file       # open file
 :saveas file  # save file as
